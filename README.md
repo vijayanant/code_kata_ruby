@@ -1,4 +1,8 @@
-ruby_katas
-==========
+# Ruby Code Katas
+------------------------
 
-Code Katas in Ruby...thanks to dear Jim Weirich &amp; Bob Martin
+Code Katas in Ruby. Thanks to Jim Weirich and Bob Martin
+
+1. Roman Numeral Converter
+2. Prime Factors Katas
+
